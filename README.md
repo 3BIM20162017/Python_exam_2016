@@ -2,12 +2,17 @@
 
 [Lien vers le sujet](https://sergiopeignier.github.io/teaching/python/DS.pdf)
 
-##Infos sur la partie 1
+##Infos sur la partie 1 (markov)
 J'ai récupéré les séquences sur le NCBI. La séquence "unknow.fasta" est le génome d'une souche de grippe, elle
 sert juste à faire le log-likelihood.
 
 Pour visualiser les fichiers HTML, téléchargez les et ouvrez avec votre navigateur. Github arrive pas à les montrer
 en *nesting* dans une page à cause de leur taille.
+
+##Infos sur la partie 2 (perceptron)
+N'ayant pas le dataset original du DS, j'ai généré (sur les conseils du prof) un dataset selon 2 distributions normales.
+Le plus rapproché seront les paramètres des distributions, le plus d'itérations il faudra pour faire la répartition 
+correcte des éléments.
 
 ##Installation de plotly
 
