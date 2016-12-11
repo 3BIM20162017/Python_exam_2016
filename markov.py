@@ -42,8 +42,6 @@ def compute_log_likelihood(m,possibilities,data_str):
   return log_sum
 
 if __name__ == '__main__':
-  a = 0
-
   poss = ['A','T','C','G']
   
   ebola = get_string_from_fasta_file("ebola.fasta")
